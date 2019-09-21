@@ -1,0 +1,76 @@
+.logosup{
+	background-color: darkblue;
+
+}
+
+img{
+	opacity: 100%;
+}
+.tituloResultado{
+	margin-top:50px;
+	color: darkblue;
+}
+
+body{
+background-color: #F8F8F8;
+}
+.numero{
+height: 50px;
+  width: 50px;
+  background-color:darkblue;
+  border-radius: 50%;
+ display: inline-block;
+ font-size: 30px;
+
+}
+.nombre{
+	color:darkblue;
+}
+.notes{
+
+}
+
+.intentoNuevo{
+	background-color:darkblue;
+}
+.tituloEncontrar{
+	color:white;
+	font-style: bold;
+}
+.try{
+	font-style: bold;
+}
+
+.nuevo{
+	color:white;
+}
+.correo{
+	margin-left: 75px;
+	margin-right: 70px;
+	
+}
+.btn-nuevo{
+margin-right: 20px;
+color:darkblue;
+}
+.info{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.titulodos{
+	color:darkblue;
+	font-size: 14px;
+}
+.ftTexto{
+	font-size: 14px;
+}
+.btn-nuevo:hover{
+background-color: #F2DA56;
+}
+
+.btn-nuevo:active {
+  background-color: #F6BC25;
+}
+.cardinfo{
+	color:darkblue;
+}

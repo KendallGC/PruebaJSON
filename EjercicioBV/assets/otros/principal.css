@@ -1,0 +1,58 @@
+.correo{
+	margin-left: 75px;
+	margin-right: 50px;
+}
+.info{
+	margin-left: 180px;
+	margin-top: 10px;
+}
+.logo{
+	margin-top: -56px;
+}
+.dos{
+	background-color: #F8F8F8;
+}
+
+.numero{
+height: 50px;
+  width: 50px;
+  background-color:darkblue;
+  border-radius: 50%;
+ display: inline-block;
+ font-size: 30px;
+
+}
+.tres{
+	border-top: 5px solid white;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+
+}
+body{
+	background-color: #F8F8F8;
+}
+.jup{
+	background-color: darkblue;
+}
+.titulodos{
+	color:darkblue;
+}
+.ftTexto{
+	font-size: 14px;
+}
+.terminos{
+	font-size: 14px;
+}
+.lupa, .persona{
+	margin-top:-50px;
+}
+
+
+
+.btngo:hover {
+  background-color: #F2DA56;
+}
+.btngo:active {
+  background-color: #F6BC25;
+}
